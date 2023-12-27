@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "native-ahead-of-time", "native-ahead-of-time\native-ahead-of-time.csproj", "{7724E8DE-F3AD-4A89-98EB-A13D8141E844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7724E8DE-F3AD-4A89-98EB-A13D8141E844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7724E8DE-F3AD-4A89-98EB-A13D8141E844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7724E8DE-F3AD-4A89-98EB-A13D8141E844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7724E8DE-F3AD-4A89-98EB-A13D8141E844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67AE8AF7-DAD8-4877-A64F-CBAC0AF0183C}
+	EndGlobalSection
+EndGlobal

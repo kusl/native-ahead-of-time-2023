@@ -1,0 +1,11 @@
+@native_ahead_of_time_HostAddress = http://localhost:5010
+
+GET {{native_ahead_of_time_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{native_ahead_of_time_HostAddress}}/todos/1
+Accept: application/json
+
+###
